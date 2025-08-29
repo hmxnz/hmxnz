@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hmxnz
-- 👀 I’m interested in data science and data analysis
-- 🌱 I’m currently learning excel, r and pyhton
-- ✨ I’m looking to collaborate on junior data bases projects
+- 👀 I’m interested in Cybersecurity and Cloud Engineering
+- 🌱 I’m currently learning Linux, AWS and delving into Python
+- ✨ I’m looking to internships on IT sector
 - 📫 How to reach me h.mxn.segura@gmail.com
 
 <!---
