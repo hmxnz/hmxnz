@@ -16,7 +16,8 @@ Currently, I’m building hands-on skills in **penetration testing, Linux enviro
   - Hack4u *Offensive Python*  
   - Google Cloud Foundations  
   - Fortinet *Certified Associate & Fundamentals in Cybersecurity*  
-  - Linux Basics & Customization  
+  - Linux Basics & Customization
+  - Google Advanced Data Analitycs  
 - 🔭 Always working on new labs (TryHackMe, HackTheBox) and preparing for **eJPT**  
 
 ---
